@@ -1,2 +1,2 @@
 # Rust
-Rust initial testing
+#### Learning rust
